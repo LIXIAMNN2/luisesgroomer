@@ -1,5 +1,0 @@
-
-#Common Settings
-[common]
-	enabledItems = ["sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true"]
-
