@@ -1799,3 +1799,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [17Jan2025 01:02:01.090] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6eae524d-4d3b-3980-89c6-01696be29457
 [17Jan2025 01:02:01.175] [Server thread/INFO] [Jade/]: Syncing config to LIXIAMN (6eae524d-4d3b-3980-89c6-01696be29457)
 [17Jan2025 01:02:05.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5535ms or 110 ticks behind
+[17Jan2025 01:02:40.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20596ms or 411 ticks behind
+[17Jan2025 01:03:01.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5953ms or 119 ticks behind
+[17Jan2025 01:04:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIXIAMN has made the advancement [Combat 2]
+[17Jan2025 01:04:23.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIXIAMN was slain by Hollow Soldier
+[17Jan2025 01:04:23.622] [Server thread/INFO] [tombstone/]: The player LIXIAMN has successfully been saved
+[17Jan2025 01:04:54.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 01:04:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 01:04:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 01:04:54.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIXIAMN lost connection: Server closed
+[17Jan2025 01:04:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIXIAMN left the game
+[17Jan2025 01:04:54.768] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6eae524d-4d3b-3980-89c6-01696be29457
+[17Jan2025 01:04:54.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 01:04:55.491] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Jan2025 01:04:55.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 01:04:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 01:04:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 01:04:56.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 01:04:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 01:04:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 01:04:56.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jan2025 01:04:56.407] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[17Jan2025 01:04:56.418] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
